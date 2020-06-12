@@ -3,7 +3,10 @@
 
 Use following services on AWS 
 
-- git repository 
+- Create git repository 
+- Run following command to copy the file to your git repo aws s3 cp s3://wildrydes-us-east-1/WebApplication/1_StaticWebHosting/website ./ --recursive
+
+
 
 Here is AWS Path to do so 
 
