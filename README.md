@@ -7,6 +7,13 @@ Use following services on AWS
 - Run following command to copy the file to your git repo aws s3 cp s3://wildrydes-us-east-1/WebApplication/1_StaticWebHosting/website ./ --recursive
 
 
+Note: 
+
+Lambda Fucntion source URL 
+
+https://github.com/aws-samples/aws-serverless-workshops/blob/master/WebApplication/3_ServerlessBackend/requestUnicorn.js
+
+
 
 Here is AWS Path to do so 
 
