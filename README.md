@@ -9,6 +9,9 @@ Use following services on AWS
 - Create S3 Bucket for static website
 - Create User Pool in Cognito
 - Add Client in Pool
+- Lambda Function added with role
+- API Gateway added 
+- DynamoDB table added
 
 
 Note: 
